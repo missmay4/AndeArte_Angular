@@ -1,4 +1,8 @@
 # AndeArteAngular
+> Plataforma para acercar galerías de arte al público general y especializado. Buscador de galerias de arte mediante geolocalización.
+
+**Proyecto Curso Front End 2017**
+**Collaborators: _@missmay4, @DavidSigRod & @pilarlb_**
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
