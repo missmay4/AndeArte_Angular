@@ -8,7 +8,7 @@ import { Galeria } from '../galeria'; // importar la clase que está en galeria.
 })
 export class ListadoGaleriasComponent implements OnInit {
 
-  const galerias_cercanas: Galeria[] = [
+  galerias_cercanas: Galeria[] = [
     { name: 'Magda Bellotti', photo: 'assets/img/galeriamagdamadrid.jpg' }, // Datos galerias index, por orden
     { name: 'Bacelos', photo: 'assets/img/galeriabacelosmadrid.jpg'},
     { name: 'Art Sage', photo: 'assets/img/fotogaleria.jpg'},
