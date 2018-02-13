@@ -5,13 +5,21 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
+import { ListadoGaleriasComponent } from './listado-galerias/listado-galerias.component';
+import { BuscadorComponent } from './buscador/buscador.component';
+import { FormularioGaleriasComponent } from './formulario-galerias/formulario-galerias.component';
+import { ComentariosComponent } from './comentarios/comentarios.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    ListadoGaleriasComponent,
+    BuscadorComponent,
+    FormularioGaleriasComponent,
+    ComentariosComponent
   ],
   imports: [
     BrowserModule
