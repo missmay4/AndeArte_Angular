@@ -1,0 +1,92 @@
+
+/* ---------------------------------------------- FOOTER --------------------------------------------- */
+
+.footer-bottom {
+  min-height: 30px;
+  width: 100%;
+  float: left;
+  background-color: #333;
+}
+
+.copyright {
+  color: #fff;
+  line-height: 30px;
+  min-height: 30px;
+  padding: 7px 0;
+}
+
+.blockCorp a{
+  color: #fff;
+}
+
+.design {
+  color: #fff;
+  line-height: 30px;
+  min-height: 30px;
+  padding: 7px 0;
+  text-align: right;
+}
+
+.design a {
+  color: #fff;
+}
+
+.social-icons {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.social-icons > li {
+  display: inline-block;
+  text-align: right;
+}
+
+.social-icons > li > a {
+  background: #f5f5f5;
+  display: block;
+  margin: 0 8px 8px 0;
+  text-align: center;
+  line-height: 32px;
+  font-size: 14px;
+  height: 32px;
+  width: 32px;
+  color: #777777;
+}
+
+.social-icons > li > a:hover,
+.social-icons > li > a:focus {
+  background: #7f8c8d;
+  color: #ffffff;
+}
+
+.social-icons-md > li > a {
+  line-height: 40px;
+  height: 40px;
+  width: 40px;
+}
+
+.social-icons-round > li > a {
+  border-radius: 2px;
+}
+
+/* --------------------------------------------- FIN FOOTER ------------------------------------------ */
+
+/* ------------------------------------- MEDIA QUERIS FOOTER ----------------------------------------- */
+
+@media only screen
+  and (max-device-width: 480px) {
+    /* FOOTER */
+    .fondofooter {
+      width: 60%;
+      margin: 0 20%;
+      float: left;
+    }
+    .legal p{
+      width: 100%;
+    }
+    .iconosocial {
+      width: 70%;
+      margin: 0 15%;
+    }
+  }
