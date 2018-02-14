@@ -9,6 +9,7 @@ import { ListadoGaleriasComponent } from './listado-galerias/listado-galerias.co
 import { BuscadorComponent } from './buscador/buscador.component';
 import { FormularioGaleriasComponent } from './formulario-galerias/formulario-galerias.component';
 import { ComentariosComponent } from './comentarios/comentarios.component';
+import { VistaDetalleComponent } from './vista-detalle/vista-detalle.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { ComentariosComponent } from './comentarios/comentarios.component';
     ListadoGaleriasComponent,
     BuscadorComponent,
     FormularioGaleriasComponent,
-    ComentariosComponent
+    ComentariosComponent,
+    VistaDetalleComponent
   ],
   imports: [
     BrowserModule
