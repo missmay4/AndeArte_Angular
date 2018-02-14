@@ -1,0 +1,109 @@
+/* -------------------------------------- INICIO VISTA DETALLE --------------------------------------- */
+
+
+
+
+.centrar {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+.centrar table {
+    margin-left: 5%;
+    margin-bottom: 3%;
+    text-align: left;
+    border: 1px solid;
+}
+
+ .cajaEst {
+    width: 100%;
+    float: left;
+}
+
+ .valoEstr {
+    width: 100%;
+    float: left;
+    margin-left: 30%;
+
+}
+
+.centrar ul {
+    margin-right: 8%;
+}
+
+/* Buscador bootstrap */
+
+.SearchIcon
+{
+    color:#FFF;
+
+}
+.SearchButton
+{
+    background-color:#333;
+    border-radius:1px;
+}
+.SearchButton:hover{
+    background-color:#3d3d3d;
+}
+
+/*.search {
+    float: left;
+    width: 100%;
+    padding-top: 5px;
+}
+
+.search input {
+    width: 100%;
+    height: 60px;
+} */
+
+
+.descripcion {
+    float: left;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+
+}
+
+.descripcion p {
+    margin-top: 5%;
+}
+.cuadro {
+    float: left;
+    width: 100%;
+}
+
+.cuadro img {
+    width: 100%;
+}
+
+.mapa {
+    width: 100%;
+    float: left;
+    height: 400px;
+}
+
+.mapa iframe {
+    width: 100%;
+    height: 400px;
+} 
+
+.evento1 {
+    float: left;
+    width: 100%;
+}
+
+.col-izda {
+    float: left;
+    width: 50%;
+}
+
+.col-dcha {
+    float: left;
+    width: 50%;
+}
