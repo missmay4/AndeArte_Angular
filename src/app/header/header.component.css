@@ -1,0 +1,49 @@
+/* ---------------------------------------------- HEADER --------------------------------------------- */
+
+header {
+    width: 100%;
+    float:left;
+    background-color: #ffffff;
+    margin: 50px 0 15px 0;
+}
+
+.logo {
+    float: left;
+    width: 21%;
+    margin-left: 2%;
+    padding-top: 20px;
+    /* height: 100px; */
+}
+
+.logo img {
+    max-width: 60%;
+}
+
+.naming {
+    width: 54%;
+    padding-top: 40px;
+    float: left;
+}
+
+.fotouser {
+    padding-top: 12px;
+    text-align: center;
+    width: 21%;
+    float: left;
+    margin-right: 2%;
+}
+
+.fotouser img {
+    border-radius: 50%;
+    max-width: 60%;
+}
+
+.colorheader {
+  background-color: #333; /* Color negro header */
+}
+
+.colorheader a{
+  color: #fff;
+}
+
+/* -------------------------------------------- FIN HEADER ------------------------ */
