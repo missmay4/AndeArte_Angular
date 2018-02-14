@@ -1,0 +1,53 @@
+/* ------------------------------------------ INICIO COMENTARIOS --------------------------------------*/
+
+.comentuse {
+    width: 100%;
+    float: left;
+    background-color: #ecf0f1;
+    padding: 10px 0;
+}
+
+
+.blockcomMovil {
+    width: 100%;
+    float: left;
+}
+
+.mvTop {
+    width: 100%;
+    float: left;
+}
+
+.mvImg {
+    width: 20%;
+    float: left;
+}
+
+
+
+.mvImg img{
+    max-width: 100%;
+    max-height: 100px;
+    border-radius: 50%;
+
+}
+
+
+.mvNomb {
+    /* width: 50%; */
+    float: right;
+}
+
+.recuadroCom{
+    border:1px solid;
+    padding: 1%;
+
+}
+
+.center {
+    width: 100%;
+    float: left;
+    align-content: center;
+    text-align: center;
+}
+
