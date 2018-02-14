@@ -62,3 +62,25 @@ main {
 nav, header, footer {
   font-family: 'caviardreams';
 }
+
+/* Formularios editargaleria creargaleria signin crearusuario */
+
+.campo {
+    width: 100%;
+    float: left;
+    height: 40px;
+    margin: 5px 0;
+}
+
+.etiq {
+    width: 100%;
+    height: 25px;
+    padding: 15px 0;
+    float: left;
+}
+
+.etiq label {
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+}
+/* fin CSS global formularios */
