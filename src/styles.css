@@ -64,6 +64,12 @@ nav, header, footer {
 }
 
 /* Formularios editargaleria creargaleria signin crearusuario */
+.title-1{
+    width: 50%;
+    float: left;
+    margin-left: 5%;
+    /*text-align: center;*/
+}
 
 .campo {
     width: 100%;
