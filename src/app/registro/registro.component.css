@@ -62,3 +62,32 @@
 }
 
 /* ------------------------------------------ FIN FORMULARIO ------------------------------------------*/
+
+
+/* ------------------------------------------- MEDIA QUERIS ------------------------------------------ */
+
+@media only screen
+  and (max-device-width: 480px) {
+
+/* FORMULARIO */
+    .deco-1{
+        display: none;
+    }
+
+}
+
+
+@media only screen and (min-device-width: 801px) {
+
+/* FORMULARIOS */
+
+.formularioreg{
+  padding: 20px 0 50px 0;
+  width: 45%;
+  margin: 0 5%;
+  float: left;
+}
+}
+
+
+/* --------------------------------------- FIN MEDIA QUERIS ------------------------------------------ */
