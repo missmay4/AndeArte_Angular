@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Galeria } from '../galeria';
+import { ComentariosComponent } from '../comentarios/comentarios.component';
 
 @Component({
   selector: 'app-vista-detalle',
