@@ -7,7 +7,9 @@
       <h4 id="data"></h4>
       <div class="row">
         <div class="col-lg-3 col-md-6 block col-sm-6 col-xs-12" *ngFor="let galeria of galerias_cercanas"> <!-- nfFor recorre la lista en listado-galerias-component.ts -->
-          <a href="vistaDetalle.html">
+          <a routerLink= "/vista-detalle">
+
+          <!-- <a href="vistaDetalle.html"> -->
             <img src="{{galeria.photo}}"/> </a> <!-- imagen galeria  -->
           <h3>{{galeria.name}}</h3>  <!-- nombre galeria  -->
         </div>

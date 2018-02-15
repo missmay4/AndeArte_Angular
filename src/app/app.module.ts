@@ -10,6 +10,7 @@ import { BuscadorComponent } from './buscador/buscador.component';
 import { FormularioGaleriasComponent } from './formulario-galerias/formulario-galerias.component';
 import { ComentariosComponent } from './comentarios/comentarios.component';
 import { VistaDetalleComponent } from './vista-detalle/vista-detalle.component';
+import { AppRoutingModule } from './/app-routing.module';
 
 
 @NgModule({
@@ -24,7 +25,8 @@ import { VistaDetalleComponent } from './vista-detalle/vista-detalle.component';
     VistaDetalleComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
