@@ -7,6 +7,8 @@ import { VistaDetalleComponent } from './vista-detalle/vista-detalle.component';
 import { PerfiluserComponent } from './perfiluser/perfiluser.component';
 import { CreargaleriaComponent } from './creargaleria/creargaleria.component';
 import { EditargaleriaComponent } from './editargaleria/editargaleria.component';
+import { RegistroComponent } from './registro/registro.component';
+import { LoginComponent } from './login/login.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/listado-galerias', pathMatch: 'full'},
@@ -16,6 +18,8 @@ const routes: Routes = [
   { path: 'perfiluser', component: PerfiluserComponent },
   { path: 'creargaleria', component: CreargaleriaComponent },
   { path: 'editargaleria', component: EditargaleriaComponent },
+  { path: 'registro', component: RegistroComponent },
+  { path: 'login', component: LoginComponent }
 
 ];
 

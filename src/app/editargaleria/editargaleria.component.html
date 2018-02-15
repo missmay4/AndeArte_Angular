@@ -4,20 +4,20 @@
 <div class="wrapper">
 
   <div class="cabecera">
-  
+
     <div class="title-1">
       <h1 class="funo">Edita tu Galería</h1>
     </div>
-    <a href="perfiluser.html">
+    <a routerLink= "/perfiluser">
       <button type="button" class="btn btn-default btn-md buttonatras">Atrás</button>
     </a>
-  
+
   </div>
 
   <app-formulario-galerias></app-formulario-galerias>
 
   <form id="FormEvento" method="post" class="formulariogestion" name="formEventos" action="#" onsubmit="return false;">
-  
+
     <!-- Eventos galeria -->
     <label for="new_nomEvento" class="etiq fcuatro">Añadir próximos eventos:</label>
     <div class="campo">Nombre del evento:
@@ -26,16 +26,12 @@
     <div class="campo">Fecha:
       <input type="date" name="date" id="new_fechaEvento" />
     </div>
-  
+
     <div class="campo">
       <input type="submit" name="guarcambios" value="Guardar Evento" id="saveEvent">
-  
-  
+
+
     </div>
-  
+
   </form>
 </div>
-
-
-
-
