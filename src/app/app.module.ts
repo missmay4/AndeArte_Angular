@@ -30,7 +30,7 @@ import { LoginComponent } from './login/login.component';
     VistaDetalleComponent,
     CreargaleriaComponent,
     PerfiluserComponent,
-    EditargaleriaComponent
+    EditargaleriaComponent,
     RegistroComponent,
     LoginComponent
   ],
