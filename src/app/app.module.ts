@@ -13,6 +13,7 @@ import { VistaDetalleComponent } from './vista-detalle/vista-detalle.component';
 import { AppRoutingModule } from './/app-routing.module';
 import { CreargaleriaComponent } from './creargaleria/creargaleria.component';
 import { PerfiluserComponent } from './perfiluser/perfiluser.component';
+import { EditargaleriaComponent } from './editargaleria/editargaleria.component';
 
 
 @NgModule({
@@ -26,7 +27,8 @@ import { PerfiluserComponent } from './perfiluser/perfiluser.component';
     ComentariosComponent,
     VistaDetalleComponent,
     CreargaleriaComponent,
-    PerfiluserComponent
+    PerfiluserComponent,
+    EditargaleriaComponent
   ],
   imports: [
     BrowserModule,
