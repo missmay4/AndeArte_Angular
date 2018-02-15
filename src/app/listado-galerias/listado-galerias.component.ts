@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Galeria } from '../galeria'; // importar la clase que está en galeria.ts
+import { BuscadorComponent } from '../buscador/buscador.component';
 
 @Component({
   selector: 'app-listado-galerias',
