@@ -8,7 +8,7 @@ import { Galeria } from '../galeria';
 })
 export class VistaDetalleComponent implements OnInit {
 
-      name: 'Magda Belloti', // nombre galeria index
+/*      name: 'Magda Belloti', // nombre galeria index
        //photo: string, // url foto galeria index
        description: 'Fundada en 1980, Galería Magda Bellotti nace con el objetivo de dar a conocer el arte en el corazón de la capital española. Especializada en pinturas de los siglos XIX y XX.',
        //imagenes: string,
@@ -16,7 +16,7 @@ export class VistaDetalleComponent implements OnInit {
        horario: 'M-V 10:00-14:00 | 17:00-20:00 | S 10:00-14:00',
        telefono: 913693717,
        web: 'www.magdabellotti.com',
-       email: 'galeriamagdabellotti@gmail.com'
+       email: 'galeriamagdabellotti@gmail.com' */
 
   constructor() { }
 
