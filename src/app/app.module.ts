@@ -14,6 +14,8 @@ import { AppRoutingModule } from './/app-routing.module';
 import { CreargaleriaComponent } from './creargaleria/creargaleria.component';
 import { PerfiluserComponent } from './perfiluser/perfiluser.component';
 import { EditargaleriaComponent } from './editargaleria/editargaleria.component';
+import { RegistroComponent } from './registro/registro.component';
+import { LoginComponent } from './login/login.component';
 
 
 @NgModule({
@@ -29,6 +31,8 @@ import { EditargaleriaComponent } from './editargaleria/editargaleria.component'
     CreargaleriaComponent,
     PerfiluserComponent,
     EditargaleriaComponent
+    RegistroComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,

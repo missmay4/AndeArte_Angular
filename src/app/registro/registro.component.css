@@ -1,0 +1,64 @@
+/* --------------------------------------------- INICIO FORMULARIO ------------------------------------*/
+.title-1{
+  width: 50%;
+  float: left;
+  margin-left: 5%;
+}
+.buttonatras{
+  width: 25%;
+  float: left;
+  text-decoration: none;
+  margin: 0 15% 0 5%;
+}
+
+.campo {
+  width: 100%;
+  float: left;
+  height: 40px;
+}
+
+#birth {
+  width: 22%;
+  height: 40px;
+}
+
+.botonesradio {
+  width: 90%;
+  padding: 0 5%;
+  float: left;
+}
+
+.fcontainer {
+  width: 100%;
+  float: left;
+  height: 20px;
+  padding-bottom: 5px;
+}
+
+.botonescheck {
+   width: 90%;
+  padding: 0 5%;
+  float: left;
+}
+
+#botonenviar {
+  width: 98%;
+  margin: 0 1%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 40px;
+}
+
+.deco-1{
+  padding: 20px 0;
+  width: 45%;
+  display:inline-block;
+  float: left;
+}
+
+.deco-1 img{
+  max-width: 100%;
+  float: left;
+}
+
+/* ------------------------------------------ FIN FORMULARIO ------------------------------------------*/

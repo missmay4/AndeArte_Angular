@@ -1,0 +1,69 @@
+/* ---------------------------------------- INICIO SIGN IN ----------------------------------*/
+
+.vidgal {
+  width: 100%;
+  padding-top: 50px;
+  float: left;
+}
+
+.formsign {
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  float: left;
+}
+
+.etiq {
+  width: 100%;
+  height: 25px;
+  padding: 15px 0;
+  float: left;
+}
+
+.etiq label {
+  padding-left: 1.5%;
+  padding-right: 1.5%;
+}
+
+.campoformulario {
+  width: 100%;
+  float: left;
+  padding-bottom: 50px;
+}
+.campo{
+  margin: 5px 0;
+}
+.campo-1 {
+  width: 98%;
+  margin: 0 1%;
+  margin-top: 3px;
+  height: 40px;
+}
+
+.botonsign {
+  width: 100%;
+  float: left;
+  margin: 5px 0;
+}
+
+.botonsign input {
+  width: 98%;
+  margin: 0 1%;
+  margin-top: 3px;
+  height: 40px;
+}
+
+.registrate {
+  width: 98%;
+  margin: 0 1%;
+  margin-top: 3px;
+  height: 60px;
+  float: left;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* --------------------------------------------- FINAL SIGNIN ---------------------------------------*/
