@@ -11,6 +11,7 @@ import { FormularioGaleriasComponent } from './formulario-galerias/formulario-ga
 import { ComentariosComponent } from './comentarios/comentarios.component';
 import { VistaDetalleComponent } from './vista-detalle/vista-detalle.component';
 import { AppRoutingModule } from './/app-routing.module';
+import { CreargaleriaComponent } from './creargaleria/creargaleria.component';
 
 
 @NgModule({
@@ -22,7 +23,8 @@ import { AppRoutingModule } from './/app-routing.module';
     BuscadorComponent,
     FormularioGaleriasComponent,
     ComentariosComponent,
-    VistaDetalleComponent
+    VistaDetalleComponent,
+    CreargaleriaComponent
   ],
   imports: [
     BrowserModule,
